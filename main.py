@@ -34,7 +34,7 @@ def speak(text):
     os.remove("temp.mp3")
 
 def aiProcess(command):
-    openai.api_key = "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"  # Set your OpenAI API key here
+    openai.api_key = # Set your OpenAI API key here
 
     # OpenAI chat completion
     response = openai.ChatCompletion.create(
