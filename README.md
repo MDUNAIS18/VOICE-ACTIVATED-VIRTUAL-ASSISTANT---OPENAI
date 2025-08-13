@@ -20,7 +20,7 @@ Wake Word Activation ("Jarvis")
 📦 Jarvis-Assistant
 ┣ 📜 main.py 
 ┣ 📜 musiclibrary.py 
-┣ 📜 requirements.txt
+┣ 📜 client.txt
 ┗ 📜 README.md 
 
 🛠 Installation:
