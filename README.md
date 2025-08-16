@@ -26,7 +26,7 @@ Wake Word Activation ("Jarvis")
 🛠 Installation:
 1️⃣ Clone the repository
 bash
-git clone https://github.com/your-username/jarvis-assistant.git
+[https://github.com/your-username/jarvis-assistant.git](https://github.com/MDUNAIS18/VOICE-ACTIVATED-VIRTUAL-ASSISTANT---OPENAI)
 cd jarvis-assistant
 
 2️⃣ Install dependencies
